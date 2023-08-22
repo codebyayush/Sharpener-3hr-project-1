@@ -1,0 +1,29 @@
+*{
+    height: inherit;
+    width: auto;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.text-center{
+    padding-bottom: 10px;
+    border: 4px solid green;
+    border-radius: 100px;
+    
+}
+
+.form-check{
+    padding-top: 20px;
+}
+
+#items{
+    padding: 10px 10px;
+    font-family: "General Sans Regular";
+    font-size: 20px;
+    border: 1px solid green;
+    border-radius: 12px;
+    justify-content: space-between;
+}
